@@ -403,7 +403,7 @@ vcrpy==4.1.1 \
     --hash=sha256:12c3fcdae7b88ecf11fc0d3e6d77586549d4575a2ceee18e82eee75c1f626162 \
     --hash=sha256:57095bf22fc0a2d99ee9674cdafebed0f3ba763018582450706f7d3a74fff599
     # via -r requirements/dev-requirements.in
-wheel==0.37.0 \
+wheel==0.46.2 \
     --hash=sha256:21014b2bd93c6d0034b6ba5d35e4eb284340e09d63c59aef6fc14b0f346146fd \
     --hash=sha256:e2ef7239991699e3355d54f8e968a21bb940a1dbf34a4d226741e64462516fad
     # via pip-tools
